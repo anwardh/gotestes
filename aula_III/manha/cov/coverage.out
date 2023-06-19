@@ -1,0 +1,5 @@
+mode: set
+github.com/lucasti79/gocoverage/type_number.go:3.31,4.9 1 1
+github.com/lucasti79/gocoverage/type_number.go:5.13,6.20 1 1
+github.com/lucasti79/gocoverage/type_number.go:7.13,8.20 1 1
+github.com/lucasti79/gocoverage/type_number.go:9.10,10.16 1 0

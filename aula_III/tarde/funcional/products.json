@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Bolo de Cenoura",
+    "category": "Comida",
+    "count": 2,
+    "price": 5
+  },
+  {
+    "id": 2,
+    "name": "Café com Leite",
+    "category": "Bebida",
+    "count": 22,
+    "price": 7
+  },
+  {
+    "id": 3,
+    "name": "Tester",
+    "category": "Funcional",
+    "count": 10,
+    "price": 99.99
+  },
+  {
+    "id": 4,
+    "name": "Tester",
+    "category": "Funcional",
+    "count": 10,
+    "price": 99.99
+  }
+]
